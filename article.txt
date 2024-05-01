@@ -1,0 +1,14 @@
+Features:
+Login Page
+Home Page
+Project 
+Task List Page
+Progress Form
+Report Generation
+User 
+etc.
+
+
+Email: admin@admin.com
+Password: admin123
+
